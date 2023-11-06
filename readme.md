@@ -4,7 +4,7 @@ El siguiente código en Python crea una matriz de tamaño `tam` y permite al usu
 
 ```python
 tam = 5  # Define el tamaño de la matriz
-t = tam - 1  # Variable auxiliar
+~~t = tam - 1  # Variable auxiliar~~
 matriz = [None] * tam  # Crea una matriz de tamaño 'tam' con todos los elementos inicializados en None
 i = 0  # Índice para recorrer la matriz
 

@@ -1,5 +1,5 @@
 tam = 5 
-t = tam - 1
+# t = tam - 1
 matriz = [None] * tam
 i = 0
 while i < tam:
